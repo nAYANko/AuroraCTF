@@ -1,4 +1,4 @@
-# Locked Toilets
+# Locked Toilet
 
 
 Description:
