@@ -1,4 +1,4 @@
-# Level 3 - Question 1 
+![Screenshot 2025-02-04 231420](https://github.com/user-attachments/assets/a2eee12a-36d4-422d-979f-afe36c21eff8)# Level 3 - Question 1 
 
 Description:
 <br>
@@ -16,6 +16,12 @@ Now starting from copying the lyrics top to bottom and trying it as a key. The o
 
 Starting with `[Intro: Betsy & Maria Yankovskaya]`, following are the lyrics and u see quite some text being revealed, then we have `[Chorus: Betsy, Maria Yankovskaya, Both]` and `[Verse: Betsy & Maria Yankovskaya]`. These all a pretty straightforward, at this point you should have this:
 ![Screenshot 2025-02-04 231420](https://github.com/user-attachments/assets/022ad999-8d80-4adc-bc24-03115aecb020)
+
+
+Now if u remove the `(Betsy, Betsy, Betsy, Betsy)`  u see some text getting encrypted again, this means its part of the key. Moving to other phrases ahead like `(Iu)(Aga)(Davay)` after being removed reveal more text.
+
+
+Now we come to the part with a lot of useless text, for the first 2 lines its the same as Betsy Betsy line, removing them encrypts the text again, so they are also part of the key. Removing the upcoming lines one by one will reveal more text. Finally remove the last line in square brackets `[Chorus: Betsy & Maria Yankovskaya, Maria Yankovskaya, Betsy]`. Anddd u have the key. GG.
 
 
 Flag: actf{4_tru3_s1gma_never_5top5_m0gg1ng}
