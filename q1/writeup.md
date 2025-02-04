@@ -1,4 +1,4 @@
-![Screenshot 2025-02-04 231420](https://github.com/user-attachments/assets/a2eee12a-36d4-422d-979f-afe36c21eff8)# Level 3 - Question 1 
+# Level 3 - Question 1 
 
 Description:
 <br>
